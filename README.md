@@ -109,7 +109,7 @@ The project successfully developed a system for automatic speaker identification
 
  **Run Jupyter Notebooks**:    
     - **Audio Processing**: Open and run `Splitting-Test-And-Saving.ipynb`   
-    - **Model Training**: Open and run `training.ipynb`   
-    - **Speaker Identification**: Open and run `identification.ipynb`   
-    - **Speaker Verification**: Open and run `Verification-Female.ipynb`, `Verification-Female.ipynb`
+    - **Model Training**: Open and run `Training.ipynb`   
+    - **Speaker Identification**: Open and run `Identification.ipynb`   
+    - **Speaker Verification**: Open and run `Verification-Female.ipynb`, `Verification-Male.ipynb`
 
