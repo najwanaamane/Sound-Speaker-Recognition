@@ -1,7 +1,4 @@
-# Sound-Speaker-Recognition
-Speaker Identification and Verification using GMM models
 
-## README for Speaker Recognition Project
 
 # Automatic Speaker Recognition: Identification and Verification
 
@@ -9,7 +6,9 @@ Speaker Identification and Verification using GMM models
 
 This project focuses on the automatic recognition of speakers using advanced techniques such as Mel-frequency cepstral coefficients (MFCC) and Gaussian Mixture Models (GMM). The objective is to build a system that can identify and verify speakers based on their unique vocal characteristics.
 
-## Project Structure
+## Project Structure   
+![image](https://github.com/najwanaamane/Sound-Speaker-Recognition/assets/86806375/dde643bb-f349-4338-b84c-2eb77da7fac6)
+
 
 ### 1. Dataset
 
@@ -69,16 +68,29 @@ Evaluates the system's performance using DET curves, plotting the trade-off betw
 
 ## Results and Interpretations
 
-### Identification
+### Identification   
+
+![image](https://github.com/najwanaamane/Sound-Speaker-Recognition/assets/86806375/ab123534-49f9-492b-ac13-12fa6c0445ce)
+
 
 - **Best Models**: GMM models with 16 and 32 components performed best.
 - **Optimal Segment Length**: 10-second segments yielded the best results.
 - **Gender Differences**: Higher false prediction rates for female speakers compared to male speakers.
 
-### Verification
+### Verification   
+overview of some gmm det curves   
+![image](https://github.com/najwanaamane/Sound-Speaker-Recognition/assets/86806375/2b5b4ff2-717c-4375-8634-39ad053f7791)   
+![image](https://github.com/najwanaamane/Sound-Speaker-Recognition/assets/86806375/40ffd886-38a9-4ee4-aea0-b71c4f8fef12)   
+![image](https://github.com/najwanaamane/Sound-Speaker-Recognition/assets/86806375/1281e629-3d0d-4725-b963-9fab8b1759a7)
+
+
+
+
 
 - **DET Curves**: Most curves are close to the lower left corner of the graph, indicating good model performance.
 - **EER**: Equal Error Rates (EER) are close to zero, suggesting high accuracy and discrimination capabilities.
+
+  
 
 ## Conclusion
 
@@ -89,20 +101,12 @@ The project successfully developed a system for automatic speaker identification
 - **Author**: Najwa Naamane
 - **Supervisor**: Prof. Jamal ElKharroubi
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details.
-
-## Acknowledgements
-
-Thank you for considering this project. Your feedback and contributions are welcome.
 
 ---
 
 ### Usage Instructions
 
-1. **Clone the Repository**: `git clone <repository_url>`
-2. **Install Dependencies**: `pip install -r requirements.txt`
+
 3. **Run Jupyter Notebooks**:
     - **Audio Processing**: Open and run `audio_processing.ipynb`
     - **Model Training**: Open and run `train_models.ipynb`
