@@ -7,7 +7,7 @@
 This project focuses on the automatic recognition of speakers using advanced techniques such as Mel-frequency cepstral coefficients (MFCC) and Gaussian Mixture Models (GMM). The objective is to build a system that can identify and verify speakers based on their unique vocal characteristics.
 
 ## Project Structure   
-![image](https://github.com/najwanaamane/Sound-Speaker-Recognition/assets/86806375/dde643bb-f349-4338-b84c-2eb77da7fac6)
+![image](https://github.com/najwanaamane/Sound-Speaker-Recognition/assets/86806375/b0e411e9-9bb8-496a-baab-5b98e9dabe71)
 
 
 ### 1. Dataset
