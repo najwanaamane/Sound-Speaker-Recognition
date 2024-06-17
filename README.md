@@ -70,7 +70,7 @@ Evaluates the system's performance using DET curves, plotting the trade-off betw
 
 ### Identification   
 
-![image](https://github.com/najwanaamane/Sound-Speaker-Recognition/assets/86806375/ab123534-49f9-492b-ac13-12fa6c0445ce)
+![image](https://github.com/najwanaamane/Sound-Speaker-Recognition/assets/86806375/30c29d86-a61d-4e97-ab9a-002ff030184f)
 
 
 - **Best Models**: GMM models with 16 and 32 components performed best.
@@ -78,7 +78,7 @@ Evaluates the system's performance using DET curves, plotting the trade-off betw
 - **Gender Differences**: Higher false prediction rates for female speakers compared to male speakers.
 
 ### Verification   
-overview of some gmm det curves   
+overview of some gmm det curves      
 ![image](https://github.com/najwanaamane/Sound-Speaker-Recognition/assets/86806375/2b5b4ff2-717c-4375-8634-39ad053f7791)   
 ![image](https://github.com/najwanaamane/Sound-Speaker-Recognition/assets/86806375/40ffd886-38a9-4ee4-aea0-b71c4f8fef12)   
 ![image](https://github.com/najwanaamane/Sound-Speaker-Recognition/assets/86806375/1281e629-3d0d-4725-b963-9fab8b1759a7)
